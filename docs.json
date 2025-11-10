@@ -17,7 +17,7 @@
             "group": "Getting Started",
             "pages": [
               "index",
-              "join-gdgoc",
+              "purpose-of-this-guide",
               "community-rules",
               "how-to-contribute"
             ]
@@ -25,8 +25,8 @@
           {
             "group": "Learning Paths",
             "pages": [
-              "paths/web-development",
-              "paths/mobile-development",
+              "frontend-development",
+              "backend-development",
               "paths/cloud-computing",
               "paths/machine-learning"
             ]
