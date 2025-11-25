@@ -210,7 +210,7 @@ We welcome contributions from everyone in the GDGOC community! Whether you're fi
 
 4. **Make your changes** following our [content guidelines](#-content-guidelines)
 
-5. **Test locally** using `mintlify dev`
+5. **Test locally** using `mint dev`
 
 6. **Commit your changes** using [Conventional Commits](https://www.conventionalcommits.org/):
 
